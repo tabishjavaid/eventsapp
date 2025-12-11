@@ -11,8 +11,8 @@ on:
 # *********************
 env:
   AWS_REGION: us-east-2
-  EKS_CLUSTER_NAME: userX-eks-cluster
-  ECR_REPOSITORY: userX/events-website
+  EKS_CLUSTER_NAME: user10-eks-cluster
+  ECR_REPOSITORY: user10/events-website
 
 
 jobs:
