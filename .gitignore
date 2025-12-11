@@ -6,6 +6,12 @@ yarn-debug.log*
 yarn-error.log*
 lerna-debug.log*
 
+# Terraform stuff from LAB-09
+.terraform
+.terraform*
+terraform.tfstate
+terraform.tfstate*
+
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 
